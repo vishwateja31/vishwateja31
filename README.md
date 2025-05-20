@@ -9,7 +9,9 @@
 | **Profile Link**  |[@Vishwateja31](https://code.swecha.org/Vishwateja31)                      |
 | **Bio**           | Enthusiastic learner passionate about AI, Open Source, and Tech for Good. |
 | **Location**      | Hyderabad, India                                                          |
-| **Skills/Tech**   |Python(Basic), Java(Basic), HTML, Arduino, Verilog, MASM,                  |
+| **Skills/Tech**   |Python(Basic), Java(Basic), HTML, Arduino, Verilog, MASM                   |
+
+
 
 
 
